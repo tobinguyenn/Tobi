@@ -1,4 +1,4 @@
-<p align="center"><img src="https://tac3.tk/logo512.png" align="center" /></p>
+<p align="center"><img src="https://tac3.tk/logo512.png" align="center" width="210" height="210" /></p>
 
 <p align="center">
   <a href="https://github.com/t-Ac3" target="_blank" rel="nofollow">
@@ -7,7 +7,7 @@
   <a href="https://www.facebook.com/nt.ace.96" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&logoColor=blue&color=ee6880&labelColor=ffffff" alt="Facebook">
   </a>
-  <a href="https://www.linkedin.com/in/tuan-anh-nguyen-109543172/" target="_blank" rel="nofollow">
+  <a style="text-decoration: none !important;" href="https://www.linkedin.com/in/tuan-anh-nguyen-109543172/" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=blue&color=ee6880&labelColor=ffffff" alt="LinkedIn">
   </a>
   <a href="mailto:anh.nt9996@gmail.com" target="_blank" rel="nofollow">
@@ -76,9 +76,7 @@ Learning
 <br><br>
 
 ## 🔥 Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=t-Ac3&theme=omni&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&border=DD4590&dates=969696)]()
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=t-Ac3&theme=omni&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&border=DD4590&dates=969696&sideNums=EE6880&ring=ee6880&fire=EE6889&sideLabels=EE6880&currStreakNum=24A19C&currStreakLabel=24A19C" alt="GitHub Streak" align="center" /></p>
 <br>
 
 ---
