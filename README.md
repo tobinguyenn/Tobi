@@ -15,7 +15,7 @@
   </a>
 </p>
 
-Hi 👋, I'm Tuan Anh Nguyen (Toby)
+Hi 👋, I'm Tuan Anh Nguyen (Tobi)
 
 I’m a web developer from Vietnam. Nice to meet you guys!
 
