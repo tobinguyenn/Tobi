@@ -1,8 +1,8 @@
-<p align="center"><img src="https://tac3-44586.web.app/logo512.png" align="center" width="210" height="210" /></p>
+<p align="center"><img src="https://i.imgur.com/MajQ6gk.jpg" align="center" width="210" height="210" /></p>
 
 <p align="center">
-  <a href="https://github.com/t-Ac3" target="_blank" rel="nofollow">
-    <img src="https://badges.pufler.dev/visits/t-Ac3/t-Ac3?color=ee6880&labelColor=ffffff" alt="Visits Badge">
+  <a href="https://github.com/tobinguyenn" target="_blank" rel="nofollow">
+    <img src="https://badges.pufler.dev/visits/tobinguyenn/tobinguyenn?color=ee6880&labelColor=ffffff" alt="Visits Badge">
   </a>
   <a href="https://www.facebook.com/nt.ace.96" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&logoColor=blue&color=ee6880&labelColor=ffffff" alt="Facebook">
@@ -23,12 +23,12 @@ I’m a web developer from Vietnam. Nice to meet you guys!
 
 ## &#x1f4c8; GitHub Stats
 <br>
-<a href="https://github.com/t-Ac3">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-Ac3&title_color=ee6880&text_color=ee6880&border_color=ee6880&layout=compact&bg_color=ffffff" />
+<a href="https://github.com/tobinguyenn">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobinguyenn&title_color=ee6880&text_color=ee6880&border_color=ee6880&layout=compact&bg_color=ffffff" />
 </a>
 <br><br>
-<a href="https://github.com/t-Ac3">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=t-Ac3&title_color=ee6880&text_color=ee6880&border_color=ee6880&layout=compact" alt="t.Ac3__'s GitHub Stats" />
+<a href="https://github.com/tobinguyenn">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=tobinguyenn&title_color=ee6880&text_color=ee6880&border_color=ee6880&layout=compact" alt="t.Ac3__'s GitHub Stats" />
 </a>
 
 <br><br>
@@ -68,15 +68,14 @@ Learning
 
 ![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&logoColor=FFCA28&color=ee6880&labelColor=ffffff)
 ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon%20aws&logoColor=232F3E&color=ee6880&labelColor=ffffff)
-![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=02569B&color=ee6880&labelColor=ffffff)
-![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=0175C2&color=ee6880&labelColor=ffffff)
+![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=02ADD8&color=ee6880&labelColor=ffffff)
 
 </details>
 
 <br><br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=t-Ac3&theme=omni&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&border=DD4590&dates=969696&sideNums=EE6880&ring=ee6880&fire=EE6889&sideLabels=EE6880&currStreakNum=24A19C&currStreakLabel=24A19C" alt="GitHub Streak" align="center" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tobinguyenn&theme=omni&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&border=DD4590&dates=969696&sideNums=EE6880&ring=ee6880&fire=EE6889&sideLabels=EE6880&currStreakNum=24A19C&currStreakLabel=24A19C" alt="GitHub Streak" align="center" /></p>
 <br>
 
 ---
